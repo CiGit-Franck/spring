@@ -1,0 +1,25 @@
+git clone https://github.com/CiGit-Franck/spring.git
+cd C:\devpt\Simplon\spring
+git init
+
+cd C:\devpt\Simplon\spring
+git add *
+git commit -m "daily commit"
+git push
+
+SpringBoot >> killer un process
+netstat -ao
+Taskkill /F /IM 4456
+
+[https]
+https://localhost:8443/api/starwars/planets
+
+[TDD]
+http://localhost:8080/api/city
+
+[StarWarss]
+git add *
+git commit -m "daily commit"
+git push
+
+http://localhost:8080/api/starwars/planets
