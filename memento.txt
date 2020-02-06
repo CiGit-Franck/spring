@@ -14,6 +14,9 @@ Taskkill /F /IM 4456
 [https]
 https://localhost:8443/api/starwars/planets
 
+>> Tuto d'implémentation TDD en HTTP
+https://github.com/eugenp/tutorials/blob/master/spring-security-modules/spring-security-mvc-boot/src/test/java/org/baeldung/web/HttpsApplicationIntegrationTest.java
+
 [TDD]
 http://localhost:8080/api/city
 
