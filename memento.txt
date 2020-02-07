@@ -26,3 +26,7 @@ git commit -m "daily commit"
 git push
 
 http://localhost:8080/api/starwars/planets
+
+[Restaurant]
+http://localhost:8080/h2-console
+http://localhost:8080/api/restaurants
