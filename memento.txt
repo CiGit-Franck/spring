@@ -30,3 +30,7 @@ http://localhost:8080/api/starwars/planets
 [Restaurant]
 http://localhost:8080/h2-console
 http://localhost:8080/api/restaurants
+>> Src de Jules
+https://stackblitz.com/edit/jlsgrand-restaurant-review
+https://jlsgrand-restaurant-review.stackblitz.io
+https://github.com/jlsgrand/restaurant-api.git
