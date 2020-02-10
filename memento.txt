@@ -11,6 +11,10 @@ SpringBoot >> killer un process
 netstat -ao
 Taskkill /F /IM 4456
 
+[Auth]
+https://github.com/bhugueney/oauth2demo.git
+http://localhost:8090/admin
+
 [https]
 https://localhost:8443/api/starwars/planets
 
@@ -29,7 +33,8 @@ http://localhost:8080/api/starwars/planets
 
 [Restaurant]
 http://localhost:8080/h2-console
-http://localhost:8080/api/restaurants
+rest : http://localhost:8080/api/restaurants
+url : http://localhost:4200
 >> Src de Jules
 https://stackblitz.com/edit/jlsgrand-restaurant-review
 https://jlsgrand-restaurant-review.stackblitz.io
