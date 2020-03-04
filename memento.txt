@@ -39,3 +39,8 @@ url : http://localhost:4200
 https://stackblitz.com/edit/jlsgrand-restaurant-review
 https://jlsgrand-restaurant-review.stackblitz.io
 https://github.com/jlsgrand/restaurant-api.git
+
+[Aliment]
+rest : http://localhost:8080/api/aliments
+>> Src
+https://github.com/jlsgrand/spring-aliment-api
